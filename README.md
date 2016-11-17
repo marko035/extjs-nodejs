@@ -1,3 +1,3 @@
 # extjs-nodejs
 
-ExtJS application with NodeJS backend. Still in development.
+ExtJS application with NodeJS backend and MongoDB database. Still in development.
